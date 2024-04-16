@@ -17,5 +17,6 @@ However, there are additional requirements if you need to use the following:
 
 ## Credits
 
-Developers in RWKV-infctx-trainer: Inital Work
-Shinon: Refactor, code stripping, etc.
+RWKV-infctx-trainer Developers: Inital Work  
+Shinon: Refactor, code stripping, etc.  
+m8than: Distribution by Length
