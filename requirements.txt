@@ -1,0 +1,5 @@
+typer
+pydantic
+orjson
+tqdm
+datasets
