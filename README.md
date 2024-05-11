@@ -21,7 +21,7 @@ However, there are additional requirements if you need to use the following:
 
 ## Usage
 
-DaDarista takes in `.toml` files as it's config. toml config files are similar to RWKV-v5's datapack example found [here](https://github.com/RWKV/RWKV-infctx-trainer/blob/main/RWKV-v5/datapack-example.yaml).
+DaDarista takes in `.yaml` files as it's config. yaml config files are similar to RWKV-v5's datapack example found [here](https://github.com/RWKV/RWKV-infctx-trainer/blob/main/RWKV-v5/datapack-example.yaml).
 Not all methods are implemented though. As such, refer to modelling.py's [DataPack](https://github.com/recursal/DaDarista/blob/main/utils/modelling.py) class for a list of supported keys and values.
 
 ## Credits
